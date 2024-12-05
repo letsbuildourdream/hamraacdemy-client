@@ -36,7 +36,7 @@ const About = () => {
           So, why wait? Join the Hamra Academy family today and take the first step toward a brighter, more fulfilling future. Together, let&apos;s build the skills, confidence, and vision to make your goals a reality.
         </p>
         <br />
-        <span className="text-[22px]">Jafar Hamra&apos;s</span>
+        <span className="text-[22px]">Jafar Hamra</span>
         <h5 className="text-[18px] font-Poppins">
         Founder & CEO of Hamra Academy
         </h5>

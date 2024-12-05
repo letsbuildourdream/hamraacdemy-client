@@ -16,12 +16,12 @@ const Policy = (props: Props) => {
           accusantium quod numquam dolores!
         </p>
         <br />
-        <h1>Acceptance of Terms</h1><br />
+        <br />
         <p>By using Hamra Academy&apos;s services, you agree to comply with these Terms and Conditions, as well as any applicable laws and regulations. If you do not agree with these terms, you are prohibited from using the platform
         </p>
         <br />
         <p className="py-2 ml-[-15px] text-[16px] font-Poppins leading-8 whitespace-pre-line">
-        <h1>Use of Platform</h1><br />
+        <br />
         Hamra Academy provides a range of online learning resources, including courses, materials, and tools related to project management, personal growth, and other professional development topics. You agree to use these resources solely for personal, educational purposes and not for any unlawful or commercial activity.
         </p>
         <br />
@@ -30,7 +30,7 @@ const Policy = (props: Props) => {
         </p>
         <br />
         <p className="py-2 ml-[-15px] text-[16px] font-Poppins leading-8 whitespace-pre-line">
-        <h1>Course Access and Fees</h1><br />
+   <br />
         Certain courses on Hamra Academy may require a fee for access. By purchasing or enrolling in a course, you agree to pay the specified fees and abide by the terms set forth by the course provider.
         </p>
         <br />

@@ -11,20 +11,21 @@ export const reviews = [
     avatar: "https://randomuser.me/api/portraits/men/1.jpg",
     profession: "Project Manager | London, UK",
     comment:
-    "I had the pleasure of taking courses at Hamra Academy, and I must say it has been a transformative experience. The platform offers a diverse range of well-structured lessons that cater to different levels of project management expertise. The practical insights and real-world examples provided have greatly enhanced my ability to manage projects effectively. If you're serious about advancing your project management career, Hamra Academy is the perfect choice!",
+    "I had the pleasure of taking courses at Hamra Academy, and I must say it has been a transformative experience. The platform offers a diverse range of well-structured lessons that cater to different levels of project management expertise. The practical insights and real-world examples provided have greatly enhanced my ability to manage projects effectively. If you&apos;re serious about advancing your project management career, Hamra Academy is the perfect choice!",
 },
   {
     name: "Carlos Rivera",
     avatar: "https://randomuser.me/api/portraits/women/1.jpg",
     profession: "Entrepreneur | Mexico City, Mexico",
     comment:
-"Thanks to Hamra Academy, I’ve gained incredible insights into personal growth and leadership strategies. The courses are engaging and packed with actionable steps that have helped me lead my business more confidently. The support and motivation from the instructors are unmatched. I highly recommend Hamra Academy to anyone seeking to unlock their potential and excel in life and work"},
-  {
+"Thanks to Hamra Academy, I&apos;ve gained incredible insights into personal growth and leadership strategies. The courses are engaging and packed with actionable steps that have helped me lead my business more confidently. The support and motivation from the instructors are unmatched. I highly recommend Hamra Academy to anyone seeking to unlock their potential and excel in life and work"
+},
+ {
     name: "Aisha Khan",
     avatar: "https://randomuser.me/api/portraits/men/2.jpg",
     profession: "Leadership Coach | Karachi, Pakistan",
     comment:
-    "Taking the personal growth courses at Hamra Academy was one of the best decisions I’ve made. The teaching approach is outstanding, and the content is highly relatable and easy to implement in real-life scenarios. I particularly loved how the lessons encourage self-reflection while providing clear strategies for improvement. Hamra Academy has truly helped me grow both personally and professionally. Thank you for creating such a valuable resource!"},
+    "Taking the personal growth courses at Hamra Academy was one of the best decisions I&apos;ve made. The teaching approach is outstanding, and the content is highly relatable and easy to implement in real-life scenarios. I particularly loved how the lessons encourage self-reflection while providing clear strategies for improvement. Hamra Academy has truly helped me grow both personally and professionally. Thank you for creating such a valuable resource!"},
   {
     name: "William Thompson",
     avatar: "https://randomuser.me/api/portraits/women/2.jpg",
@@ -37,7 +38,7 @@ export const reviews = [
     avatar: "https://randomuser.me/api/portraits/women/3.jpg",
     profession: "HR Specialist | Kathmandu, Nepal",
     comment:
-"Hamra Academy is a treasure trove of knowledge for personal and professional development. The personal growth courses helped me better understand how to build meaningful relationships and enhance my communication skills. The supportive learning environment made the experience even better. I’m so grateful for the positive impact Hamra Academy has had on my life!"
+"Hamra Academy is a treasure trove of knowledge for personal and professional development. The personal growth courses helped me better understand how to build meaningful relationships and enhance my communication skills. The supportive learning environment made the experience even better. I&apos;m so grateful for the positive impact Hamra Academy has had on my life!"
   },
   {
     name: "Michael Evans",
