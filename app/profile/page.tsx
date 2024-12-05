@@ -19,9 +19,9 @@ const Page: FC<Props> = (props) => {
     <div className="min-h-screen">
       <Protected>
         <Heading
-          title={`${user?.name} profile - Elearning`}
-          description="ELearning is a platform for students to learn and get help from teachers"
-          keywords="Prograaming,MERN,Redux,Machine Learning"
+          title={`${user?.name} profile - Harmra Academy`}
+          description="Hamra Academy is a comprehensive learning management system designed to empower individuals through skill-building in project management, personal growth, leadership, and interpersonal skills"
+          keywords="project management, personal growth, leadership, communication skills, Agile, Scrum, team management, career advancement, self-development, professional growth, practical skills, time management, interpersonal skills, real-world application"
         />
         <Header
           open={open}

@@ -7,45 +7,44 @@ type Props = {};
 
 export const reviews = [
   {
-    name: "Gene Bates",
+    name: "Emily Carter",
     avatar: "https://randomuser.me/api/portraits/men/1.jpg",
-    profession: "Student | Cambridge university",
+    profession: "Project Manager | London, UK",
     comment:
-    "I had the pleasure of exploring Becodemy, a website that provides an extensive range of courses on various tech-related topics. I was thoroughly impressed with my experience, as the website offers a comprehensive selection of courses that cater to different skill levels and interests. If you're looking to enhance your knowledge and skills in the tech industry, I highly recommend checking out Becodemy!",
+    "I had the pleasure of taking courses at Hamra Academy, and I must say it has been a transformative experience. The platform offers a diverse range of well-structured lessons that cater to different levels of project management expertise. The practical insights and real-world examples provided have greatly enhanced my ability to manage projects effectively. If you're serious about advancing your project management career, Hamra Academy is the perfect choice!",
 },
   {
-    name: "Verna Santos",
+    name: "Carlos Rivera",
     avatar: "https://randomuser.me/api/portraits/women/1.jpg",
-    profession: "Full stack developer | Quarter ltd.",
+    profession: "Entrepreneur | Mexico City, Mexico",
     comment:
-    "Thanks for your amazing programming tutorial channel! Your teaching style is outstanding, and the quality of your tutorials is top-notch. Your ability to break down complex topics into manageable parts, and cover diverse programming languages and topics is truly impressive. The practical applications and real-world examples you incorporate reinforce the theoretical knowledge and provide valuable insights. Your engagement with the audience fosters a supportive learning environment. Thank you for your dedication, expertise, and passion for teaching programming, and keep up the fantastic work!",
-},
+"Thanks to Hamra Academy, I’ve gained incredible insights into personal growth and leadership strategies. The courses are engaging and packed with actionable steps that have helped me lead my business more confidently. The support and motivation from the instructors are unmatched. I highly recommend Hamra Academy to anyone seeking to unlock their potential and excel in life and work"},
   {
-    name: "Jay Gibbs",
+    name: "Aisha Khan",
     avatar: "https://randomuser.me/api/portraits/men/2.jpg",
-    profession: "computer systems engineering student | Zimbabwe",
+    profession: "Leadership Coach | Karachi, Pakistan",
     comment:
-    "Thanks for your amazing programming tutorial channel! Your teaching style is outstanding, and the quality of your tutorials is top-notch. Your ability to break down complex topics into manageable parts, and cover diverse programming languages and topics is truly impressive. The practical applications and real-world examples you incorporate reinforce the theoretical knowledge and provide valuable insights. Your engagement with the audience fosters a supportive learning environment. Thank you for your dedication, expertise, and passion for teaching programming, and keep up the fantastic work!"},
+    "Taking the personal growth courses at Hamra Academy was one of the best decisions I’ve made. The teaching approach is outstanding, and the content is highly relatable and easy to implement in real-life scenarios. I particularly loved how the lessons encourage self-reflection while providing clear strategies for improvement. Hamra Academy has truly helped me grow both personally and professionally. Thank you for creating such a valuable resource!"},
   {
-    name: "Mina Davidson",
+    name: "William Thompson",
     avatar: "https://randomuser.me/api/portraits/women/2.jpg",
-    profession: "Junior Web Developer | Indonesia",
+    profession: "IT Project Manager | Sydney, Australia",
     comment:
-    "I had the pleasure of exploring Becodemy, a website that provides an extensive range of courses on various tech-related topics. I was thoroughly impressed with my experience",
-},
+    "Hamra Academy stands out for its focus on practical application. I recently completed a course on Agile project management, and the detailed step-by-step guidance has been a game-changer in managing my projects. The hands-on activities and case studies were especially helpful in understanding the nuances of Agile methodology. Highly recommended for anyone looking to enhance their project management skills!"
+  },
   {
-    name: "Rosemary Smith",
+    name: "Shova Basnet",
     avatar: "https://randomuser.me/api/portraits/women/3.jpg",
-    profession: "Full stack web developer | Algeria",
+    profession: "HR Specialist | Kathmandu, Nepal",
     comment:
-    "Your content is very special. The thing I liked the most is that the videos are so long, which means they cover everything in details. for that any person had beginner-level can complete an integrated project when he watches the videos. Thank you very much. Im very excited for the next videos Keep doing this amazing work",
-},
+"Hamra Academy is a treasure trove of knowledge for personal and professional development. The personal growth courses helped me better understand how to build meaningful relationships and enhance my communication skills. The supportive learning environment made the experience even better. I’m so grateful for the positive impact Hamra Academy has had on my life!"
+  },
   {
-    name: "Laura Mckenzie",
+    name: "Michael Evans",
     avatar: "https://randomuser.me/api/portraits/women/4.jpg",
-    profession: "Full stack web developer | Canada",
+    profession: "Freelance Consultant | Cape Town, South Africa",
     comment:
-    "Join Becodemy! Becodemy focuses on practical applications rather than just teaching the theory behind programming languages or frameworks. I took a lesson on creating a web marketplace using React JS, and it was very helpful in teaching me the different stages involved in creating a project from start to finish. Overall, I highly recommend Becodemy to anyone looking to improve their programming skills and build practical projects. Becodemy is a great resource that will help you take your skills to the next level.",
+"I took a project management course at Hamra Academy, and it exceeded all my expectations. The lessons were clear, concise, and incredibly practical. What stood out most was the emphasis on actionable strategies that I could apply immediately to my work. I feel more confident and organized now, thanks to Hamra Academy. Keep up the amazing work!"
 },
 ];
 
@@ -68,10 +67,7 @@ const Reviews = (props: Props) => {
           </h3>
           <br />
           <p className={styles.label}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque unde
-            voluptatum dignissimos, nulla perferendis dolorem voluptate nemo
-            possimus magni deleniti natus accusamus officiis quasi nihil
-            commodi, praesentium quidem, quis doloribus?
+          Hear from our learners about how Hamra Academy has transformed their skills, careers, and personal growth. Their success stories inspire us to keep delivering exceptional education and support every step of the way!
           </p>
         </div>
         <br />

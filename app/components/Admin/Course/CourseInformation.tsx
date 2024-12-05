@@ -84,7 +84,7 @@ const CourseInformation: FC<Props> = ({
               setCourseInfo({ ...courseInfo, name: e.target.value })
             }
             id="name"
-            placeholder="MERN stack LMS platform with next 13"
+            placeholder="Write your course info."
             className={`
             ${styles.input}`}
           />
@@ -156,7 +156,7 @@ const CourseInformation: FC<Props> = ({
                 setCourseInfo({ ...courseInfo, tags: e.target.value })
               }
               id="tags"
-              placeholder="MERN,Next 13,Socket io,tailwind css,LMS"
+              placeholder="any tags?"
               className={`
             ${styles.input}`}
             />

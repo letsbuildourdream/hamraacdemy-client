@@ -57,10 +57,10 @@ const Page = (props: Props) => {
           />
           <div className="w-[95%] 800px:w-[85%] m-auto min-h-[70vh]">
             <Heading
-              title={"All courses - Elearning"}
-              description={"Elearning is a programming community."}
+              title={"All courses - Harmra Academy"}
+              description={"Hamra Academy is a comprehensive learning management system designed to empower individuals through skill-building in project management, personal growth, leadership, and interpersonal skills."}
               keywords={
-                "programming community, coding skills, expert insights, collaboration, growth"
+                "project management, personal growth, leadership, communication skills, Agile, Scrum, team management, career advancement, self-development, professional growth, practical skills, time management, interpersonal skills, real-world applications"
               }
             />
             <br />

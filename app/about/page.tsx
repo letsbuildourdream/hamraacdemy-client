@@ -15,9 +15,9 @@ const Page = (props: Props) => {
   return (
     <div>
       <Heading
-        title="About us - Elearning"
-        description="Elearning is a learning management system for helping programmers."
-        keywords="programming,mern"
+        title="About us - Harmra Academy"
+        description="Harmra Academy is a learning management system for helping programmers."
+        keywords="project management, personal growth, leadership, communication skills, Agile, Scrum, team management, career advancement, self-development, professional growth, practical skills, time management, interpersonal skills, real-world applications"
       />
       <Header
         open={open}

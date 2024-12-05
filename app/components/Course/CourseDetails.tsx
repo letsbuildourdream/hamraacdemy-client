@@ -247,7 +247,7 @@ const CourseDetails = ({
               </div>
               <br />
               <p className="pb-1 text-black dark:text-white">
-                • Source code included
+                • Free Mentorship included
               </p>
               <p className="pb-1 text-black dark:text-white">
                 • Full lifetime access

@@ -288,7 +288,7 @@ const CourseContent: FC<Props> = ({
                         </div>
                         <input
                           type="text"
-                          placeholder="Source Code... (Link title)"
+                          placeholder=" (Link title)"
                           className={`${styles.input}`}
                           value={link.title}
                           onChange={(e) => {
@@ -300,7 +300,7 @@ const CourseContent: FC<Props> = ({
                         />
                         <input
                           type="url"
-                          placeholder="Source Code Url... (Link URL)"
+                          placeholder="(Link URL)"
                           className={`${styles.input} mt-6`}
                           value={link.url}
                           onChange={(e) => {
